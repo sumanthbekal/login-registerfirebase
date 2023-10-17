@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725763078695",
+    "project_id": "loginregisterjava",
+    "storage_bucket": "loginregisterjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725763078695:android:5327ffbb8ef3b3408d6c02",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANfUVMSFXPA5KbI8BUBWFTVssvrBZ0rbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
